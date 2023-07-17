@@ -1,4 +1,5 @@
-# Patient-Doctor-Record-Management-System
+
+# MAP YOUR HEALTH
 Objective: The objective of this project is to create a digitalized report management system that allows doctors and patients to connect online with digitalized sharing and store medical data of patients. The system aims to improve patient care and streamline communication between doctors and patients.
 
 Features:
